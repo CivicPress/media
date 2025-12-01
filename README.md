@@ -4,9 +4,9 @@ This repository provides official media and communication resources for CivicPre
 
 ## Contents
 
-- Press releases (`/press/`)
-- Logos and brand assets (`/logos/`)
-- Full logo pack download (`civicpress-logo-pack-v1.zip`)
+- Press releases ([`/press/`](press/))
+- Logos and brand assets ([`/logos/`](logos/))
+- Full logo pack download ([`civicpress-logo-pack-v1.zip`](civicpress-logo-pack-v1.zip))
 - Contact information
 
 Additional resources will be added as the project develops.
@@ -21,9 +21,9 @@ CivicPress is built to support digital sovereignty and to reduce dependence on p
 
 For interviews or media inquiries:
 
-Email: hello@civicpress.io  
-Website: https://civicpress.io  
-GitHub: https://github.com/CivicPress
+Email: [hello@civicpress.io](mailto:hello@civicpress.io)  
+Website: [https://civicpress.io](https://civicpress.io)  
+GitHub: [https://github.com/CivicPress](https://github.com/CivicPress)
 
 ## License
 

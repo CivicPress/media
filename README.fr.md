@@ -4,9 +4,9 @@ Ce dépôt contient les ressources média officielles de CivicPress. Il s'adress
 
 ## Contenu
 
-- Communiqués de presse (`/press/`)
-- Logos et éléments de marque (`/logos/`)
-- Téléchargement du paquet complet de logos (`civicpress-logo-pack-v1.zip`)
+- Communiqués de presse ([`/press/`](press/))
+- Logos et éléments de marque ([`/logos/`](logos/))
+- Téléchargement du paquet complet de logos ([`civicpress-logo-pack-v1.zip`](civicpress-logo-pack-v1.zip))
 - Coordonnées média
 
 D'autres ressources seront ajoutées au fur et à mesure de l'évolution du projet.
@@ -21,9 +21,9 @@ CivicPress soutient la souveraineté numérique des municipalités et réduit la
 
 Pour une entrevue ou une demande d'information:
 
-Courriel: hello@civicpress.io  
-Site web: https://civicpress.io  
-GitHub: https://github.com/CivicPress
+Courriel: [hello@civicpress.io](mailto:hello@civicpress.io)  
+Site web: [https://civicpress.io](https://civicpress.io)  
+GitHub: [https://github.com/CivicPress](https://github.com/CivicPress)
 
 ## Licence
 
