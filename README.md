@@ -6,7 +6,7 @@ This repository provides official media and communication resources for CivicPre
 
 - Press releases (`/press/`)
 - Logos and brand assets (`/logos/`)
-Full logo pack download (`civicpress-logo-pack-v1.zip`)
+- Full logo pack download (`civicpress-logo-pack-v1.zip`)
 - Contact information
 
 Additional resources will be added as the project develops.
